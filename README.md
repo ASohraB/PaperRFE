@@ -6,9 +6,9 @@ This repository contains the code associated with the paper titled **The Fragili
 
 ### Run
 
--run the notebooks (or view them!) for congruent or incongruent codnitions [here](https://github.com/ASohraB/PaperRFE/blob/main/tmp20000Last-tangent-cong-con1_5-2-2_5-3-3Ai1_Prj1_1.ipynb) or [here](https://github.com/ASohraB/PaperRFE/blob/main/tmp20000Last-tangent-incong-con1_5-2-2_5-3-3Ai1_Prj1_1.ipynb) respectively.
+- You can run the notebooks (or view them!) for congruent or incongruent codnitions [here](https://github.com/ASohraB/PaperRFE/blob/main/tmp20000Last-tangent-cong-con1_5-2-2_5-3-3Ai1_Prj1_1.ipynb) or [here](https://github.com/ASohraB/PaperRFE/blob/main/tmp20000Last-tangent-incong-con1_5-2-2_5-3-3Ai1_Prj1_1.ipynb) respectively.
 - or run the file arxiv1.py
-- Citation:
+### Citation:
 ```
   @article{sohrabi2025rfe,
   title={The Fragility of the Reverse Facilitation Effect in the Stroop Task: A Dynamic Neurocognitive Model},
