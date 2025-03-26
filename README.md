@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the repository for **RFE Model**, a research project that explores [briefly describe the main topic or goal of the research]. This repository contains the code associated with the paper titled **The Fragility of the Reverse Facilitation Effect in the Stroop Task: A Dynamic Neurocognitive Model"**, which is available on arXiv here <https://arxiv.org/abs/2503.19128>
+This repository contains the code associated with the paper titled **The Fragility of the Reverse Facilitation Effect in the Stroop Task: A Dynamic Neurocognitive Model"**, which is available on arXiv here <https://arxiv.org/abs/2503.19128>
 
 ### Run
 
