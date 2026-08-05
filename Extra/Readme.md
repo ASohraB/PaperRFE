@@ -1,0 +1,1 @@
+# exploring connection weights **smaller than 1.5**, i.e., 1, .5, and 0 as **too neutral**, recommended by a reviewer
